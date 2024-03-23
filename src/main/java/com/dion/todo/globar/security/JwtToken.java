@@ -16,10 +16,10 @@ import java.util.function.Function;
 @Component
 public class JwtToken implements Serializable {
 
-    @Value("$---")
+    @Value("$asjdbas8fyasiuhf87asyf08ays98fyas08ydoasdas8ftas8yd0a8syd8asyf7tasfoasyf8ysad08y80sf")
     private String secretKey;
 
-    @Value("$---")
+    @Value("$asjdbas8fyasiuhf87asyf08ays98fyas08ydoasdas8ftas8yd0a8syd8asyf7tasfoasyf8ysad08y80sf")
     private long expirationTime;
 
     // JWT 토큰 생성
